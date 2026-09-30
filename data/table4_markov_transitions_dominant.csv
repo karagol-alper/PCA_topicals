@@ -1,0 +1,5 @@
+from_state,Mild,Moderate,Potent,Very potent
+Mild,0.936969696969697,0.0,0.06303030303030303,0.0
+Moderate,0.0,1.0,0.0,0.0
+Potent,0.10386473429951691,0.0,0.8961352657004831,0.0
+Very potent,0.0,0.0,0.0,1.0

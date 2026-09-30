@@ -1,0 +1,17 @@
+Quantity,Value
+Raw data rows,"34,575,588"
+Rows retained (topical CS),"446,050"
+DISPENSED ITEMS retained,"55,202,297"
+Months,60
+Date range,Jan 2021 to Dec 2025
+ICBs in panel,42
+ICB-MONTH observations,"2,520"
+ICBs in spatial analysis,42
+Seasonal Strength Index,0.6749
+Seasonal peak month,Mar
+Seasonal trough month,Aug
+"Moran's I, rate per 1,000",0.3471 (p = 0.0004)
+"Moran's I, strong ratio",0.1384 (p = 0.0533)
+"ICC, log prescribing rate",0.819
+"ICC, strong steroid ratio",0.880
+"Rate stability, first vs last year",r = 0.865
